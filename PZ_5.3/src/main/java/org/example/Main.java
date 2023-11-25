@@ -1,20 +1,5 @@
 package org.example;
 
-import org.example.First.PrintServer;
-import org.example.First.Printer;
-import org.example.First.User;
-import org.example.Second.BlockingStack;
-import org.example.Third.TestThreadState;
-
-import java.security.SecureRandom;
-import java.util.Random;
-import java.util.Stack;
-import java.util.concurrent.TimeUnit;
-import java.util.concurrent.locks.Condition;
-import java.util.concurrent.locks.Lock;
-import java.util.concurrent.locks.ReentrantLock;
-import java.util.stream.IntStream;
-
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
